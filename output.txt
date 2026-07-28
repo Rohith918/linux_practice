@@ -2,3 +2,5 @@ ec2-user is current user and today is Tue Jul 28 15:54:45 UTC 2026
 Linux is completed
 Shell Scripting is completed
 Github is completed
+Devops is completed
+Started AWS
